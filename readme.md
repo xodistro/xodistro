@@ -13,7 +13,7 @@ _g@@@@@@@@@@2-                                `M@@@@@@@@@@0    Home: /home/xodis
 a@@@@@@@@@@2                                    v@@@@@@@@@@;    
 #@@@@@@@@@@_                                     @@@@@@@@@@y   contact information
 @@@@@@@@@@@.                                     @@@@@@@@@@%   -------------------
-#@@@@@@@@@@r                                    :@@@@@@@@@@s   Website: shitdev.nl
+#@@@@@@@@@@r                                    :@@@@@@@@@@s   Website: lunar.tk | youngforever.tk
 W@@@@@@@@@@Q`                                  _0@@@@@@@@@@*   Discord: Unidentified#0017
 ~#@@@@@@@@@@9!                                ,Q@@@@@@@@@@#    OGUsers: soko
  ;@@@@@@@@@@@@6^.                          `\p@@@@@@@@@@@@~    Github: xodistro
