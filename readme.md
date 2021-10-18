@@ -27,4 +27,3 @@ W@@@@@@@@@@Q`                                  _0@@@@@@@@@@*   Discord: Unidenti
                   -!v|`              _?v!`                     
 
 ```
-<img src="https://discord.c99.nl/widget/theme-4/676150179291725824.png"/>
