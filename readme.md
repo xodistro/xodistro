@@ -8,7 +8,7 @@ $ neofetch
     `o@@@@@@@@v^r}P0@@@@@@@@@@@@@@@@@@@@ghlr<r@@@@@@@#o`       OS: Windows
    ;0@@@@@@@@0      .?szL?*;!!!!~*|]Vox_      P@@@@@@@@0.      Shell: CMD
   ?@@@@@@@@@@q                                z@@@@@@@@@#?     Editors: VSCode, Brackets, Atom
- :@@@@@@@@@@@Q                                R@@@@@@@@@@@"    Crontab: Coding, (Eth.) Hacking, Audio Enginnering, Label Executive, Producer
+ :@@@@@@@@@@@Q                                R@@@@@@@@@@@"    Crontab: Coding, (Eth.) Hacking, Audio Enginnering, Label Executive, Producer, DJ
 _g@@@@@@@@@@2-                                `M@@@@@@@@@@0    Home: /home/xodistro
 a@@@@@@@@@@2                                    v@@@@@@@@@@;    
 #@@@@@@@@@@_                                     @@@@@@@@@@y   contact information
@@ -21,7 +21,7 @@ W@@@@@@@@@@Q`                                  _0@@@@@@@@@@*   Discord: 6inner |
    2#@@@#hr _Y#@@@@@@@#q`          `X#@@@@@@@@@@@@@@@@@#~      
     .d@@@@@D` .n6#@@@#V`             Q@@@@@@@@@@@@@@@@d.      owner of
       x0@@@@0^   `__-                M@@@@@@@@@@@@@@0=        -------------------
-        =p#@@@#%Il]]L1,              M@@@@@@@@@@@#V=          Global Music Group and it;s divisions
+        =p#@@@#%Il]]L1,              M@@@@@@@@@@@#V=          Global Music Group and it's divisions
           `vR#@@@@@@@@?              M@@@@@@@@#Pv`            ncturnl
               "Lf8@@@@v              q@@@#Qa?:                 
                   -!v|`              _?v!`                     
